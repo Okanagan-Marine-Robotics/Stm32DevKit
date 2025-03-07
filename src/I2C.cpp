@@ -1,5 +1,6 @@
 #include "I2C.hpp"
 
+
 I2CHandler::I2CHandler(uint8_t address) : deviceAddress(address) {}
 
 void I2CHandler::Init() {

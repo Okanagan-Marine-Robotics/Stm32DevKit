@@ -1,5 +1,5 @@
 #include "stm32g0xx_hal.h"
-#include "ArmControl.hpp
+#include "ArmControl.hpp"
 #include "LeakSensor.hpp"
 #include "I2C.hpp"
 
